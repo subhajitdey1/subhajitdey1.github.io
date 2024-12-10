@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PowerBI**
 
-- 👨‍💻 My portfolio website (https://subhajitdey2.github.io/)
+- 👨‍💻 My portfolio website https://subhajitdey2.github.io/
 
 - 💬 Ask me about **Python, HTML, CSS, SQL**
 
